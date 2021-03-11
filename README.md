@@ -13,3 +13,5 @@ Serial Port 9.0
 mysql 2.18.1
 Serialport/parser-readline 9.0.0
 Axios 0.19.2
+
+Captura: https://github.com/dtiradop/ProyectoiOt-React-Node/blob/master/Smart%20Door.png
